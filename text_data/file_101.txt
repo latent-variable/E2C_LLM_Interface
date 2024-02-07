@@ -1,9 +1,0 @@
-html: nan
-title: 席威参赞会见毛外交部礼宾司司长马哈穆德
-resulting_text: 2023年6月21日，驻毛里塔尼亚使馆负责经济事务的参赞席威会见毛外交、合作与海外侨民部礼宾司司长马哈穆德，就推动中毛友好合作深入交换意见。
-input_url: 20230630010445/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202306/20230603417962.shtml
-returned_url: https://web.archive.org/web/20230625060321/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202306/20230603417962.shtml
-date: 2023-06-30 00:00:00
-translated_title: Counselor XI Wei met with Director General of Protocol Department of the Ministry of Foreign Affairs of Mao, Mr. Mahmoud.
-translated_content: On June 21, 2023, Xi Wei, Counselor in charge of Economic Affairs of the Embassy in Mauritania, met with Mahmoud, Director of Protocol Department of the Ministry of Foreign Affairs, Cooperation and Overseas Koreans of Mauritania, and exchanged views on the promotion of Sino-Mauritian friendship and cooperation.
-english_summary: On June 21, 2023, Counselor Xi Wei met with Mr. Mahmoud, the Director of Protocol Department of the Ministry of Foreign Affairs, Cooperation and Overseas Koreans of Mauritania, to discuss the enhancement of Sino-Mauritian friendship and cooperation.

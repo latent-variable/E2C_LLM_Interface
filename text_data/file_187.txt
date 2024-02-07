@@ -1,9 +1,0 @@
-html: nan
-title: 商务部 科技部公告2023年第57号 关于公布《中国禁止出口限制出口技术目录》的公告
-resulting_text: 根据《中华人民共和国对外贸易法》和《中华人民共和国技术进出口管理条例》，现公布《中国禁止出口限制出口技术目录》，自公布之日起实施，商务部、科技部公告2020年第38号（《〈中国禁止出口限制出口技术目录〉调整内容》）同时废止。属于军民两用技术的，纳入出口管制管理。 商务部 科技部 2023年12月21日 中国禁止出口限制出口技术目录.pdf
-input_url: 20231224001357/http://www.mofcom.gov.cn/article/zwgk/gkzcfb/202312/20231203462079.shtml
-returned_url: https://web.archive.org/web/20231221222410/http://www.mofcom.gov.cn/article/zwgk/gkzcfb/202312/20231203462079.shtml
-date: 2023-12-24 00:00:00
-translated_title: Ministry of Commerce Ministry of Science and Technology Announcement No. 57 of 2023 Announcement on the Publication of China's Catalog of Prohibited and Restricted Export Technologies
-translated_content: According to the Foreign Trade Law of the People's Republic of China and the Regulations of the People's Republic of China on the Administration of Import and Export of Technology, the China Catalog of Technologies Banned and Restricted for Export is hereby promulgated and shall be implemented as of the date of its promulgation, and the Announcement of the Ministry of Commerce and the Ministry of Science and Technology No. 38 of 2020 (Adjustments to the China Catalog of Technologies Banned and Restricted for Export) is hereby repealed simultaneously. Those belonging to dual-use technologies are included in the management of export control. Ministry of Commerce Ministry of Science and Technology December 21, 2023 China Prohibited and Restricted Export Technology Catalog.pdf
-english_summary: The Ministry of Commerce and the Ministry of Science and Technology have announced the publication of China's Catalog of Prohibited and Restricted Export Technologies, effective as of the date of publication. This catalog includes dual-use technologies and is part of the management of export control. The previous Announcement of the Ministry of Commerce and the Ministry of Science and Technology No. 38 of 2020 has been repealed.

@@ -1,9 +1,0 @@
-html: nan
-title: 关于补充公示2023年食糖进口关税配额申请企业名单的通知
-resulting_text: 根据《2023年食糖进口关税配额申请和分配细则》（商务部公告2022年第25号）规定，现将申请2023年食糖进口关税配额的企业名单进行补充公示。 本次公示企业为阜新飞雪（集团）糖业加工有限公司，公示期为2023年1月12日—1月18日（五个工作日）。公示期内，如对申请企业资格有异议，请将书面意见（含联系方式）送达商务部外贸司。 联系单位：外贸司农产品处 电话：010-65197729 传真：010-65122427 商务部外贸司 2023年1月12日
-input_url: 20230113054024/http://www.mofcom.gov.cn/article/zwgk/gkzcfb/202301/20230103378874.shtml
-returned_url: https://web.archive.org/web/20230112174240/http://www.mofcom.gov.cn/article/zwgk/gkzcfb/202301/20230103378874.shtml
-date: 2023-01-13 00:00:00
-translated_title: Notice on Supplementary Publicity of the List of Enterprises Applying for Sugar Import Tariff Quota in 2023
-translated_content: According to the "Rules for Application and Allocation of Sugar Import Tariff Quota in 2023" (MOFCOM Announcement No. 25 of 2022), the list of enterprises applying for sugar import tariff quota in 2023 is hereby supplemented with a public notice. The publicity enterprise is Fuxin Feixue (Group) Sugar Processing Co., Ltd. and the publicity period is from January 12 to January 18, 2023 (five working days). During the publicity period, if you have any objections to the qualification of the applicant, please send your written comments (including contact information) to the Department of Foreign Trade of the Ministry of Commerce. Contact: Department of Foreign Trade, Division of Agricultural Products Tel: 010-65197729 Fax: 010-65122427 Department of Foreign Trade, Ministry of Commerce January 12, 2023
-english_summary: The Ministry of Commerce has announced a supplementary public notice for the list of enterprises applying for sugar import tariff quota in 2023. Fuxin Feixue (Group) Sugar Processing Co., Ltd. has been included in the list, and the public can submit their objections from January 12 to January 18, 2023, (five working days). The contact information for submitting comments is provided.

@@ -1,9 +1,0 @@
-html: nan
-title: 商务部亚洲司与韩国产业通商资源部通商协力局举办政策交流会
-resulting_text: 11月21日，商务部亚洲司与韩国产业通商资源部通商协力局在京面向韩资企业举办政策交流会。商务部有关司局介绍了中国吸引外资、出口管制等政策举措，并就韩资企业关注问题进行交流。韩国驻华使馆、中国韩国商会、大韩贸易投资振兴公社及韩资企业代表100余人参会。
-input_url: 20231124052223/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202311/20231103455835.shtml
-returned_url: https://web.archive.org/web/20231123201733/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202311/20231103455835.shtml
-date: 2023-11-24 00:00:00
-translated_title: Asia Department of the Ministry of Commerce and Korea's Ministry of Industry, Trade and Resources (MITR) held a policy exchange meeting with the Korea Trade Cooperation Agency.
-translated_content: On November 21, the Asia Department of the Ministry of Commerce (MOFCOM) and the Korea Trade Cooperation Agency (KTCA) of the Ministry of Industry, Trade and Resources (MITR) organized a policy exchange meeting for Korean enterprises in Beijing. The relevant departments and bureaus of the Ministry of Commerce introduced China's policy initiatives on attracting foreign investment and export control, and exchanged views on issues of concern to Korean enterprises. More than 100 representatives from the Korean Embassy in Beijing, the Korea Chamber of Commerce in China, the Korea Trade-Investment Promotion Agency and Korean enterprises attended the seminar.
-english_summary: The Asia Department of China's Ministry of Commerce and the Korea Trade Cooperation Agency of South Korea's Ministry of Industry, Trade and Resources held a policy exchange meeting in Beijing on November 21. The event was attended by over 100 representatives from the Korean Embassy in Beijing, the Korea Chamber of Commerce in China, the Korea Trade-Investment Promotion Agency, and Korean enterprises.

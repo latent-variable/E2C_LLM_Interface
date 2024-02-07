@@ -1,9 +1,0 @@
-html: nan
-title: 贸易救济局召开“贸易救济调查产业损害问题研究项目”成果交流会
-resulting_text: 2023年12月5日，贸易救济局召开“贸易救济调查产业损害问题研究项目”成果交流会。罗津局长出席并致辞，承办单位就项目研究情况做汇报。贸易救济局局领导、部内相关司局代表等与会并进行工作交流。
-input_url: 20231215005607/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202312/20231203458452.shtml
-returned_url: https://web.archive.org/web/20231214195854/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202312/20231203458452.shtml
-date: 2023-12-15 00:00:00
-translated_title: The Trade Remedies Bureau held a meeting to exchange the results of the "Research Project on Industrial Damage in Trade Remedies Investigations".
-translated_content: On December 5, 2023, the Trade Remedies Bureau held a meeting to exchange the results of the "Research Project on Industrial Damage in Trade Remedy Investigations". Director General Luo Jin attended and delivered a speech, and the contractor reported on the research status of the project. Leaders of the Trade Remedies Bureau and representatives of relevant departments and bureaus of the Ministry attended the meeting and exchanged their work.
-english_summary: On December 5, 2023, the Trade Remedies Bureau held a meeting to discuss the results of a research project on industrial damage in trade remedy investigations. Director General Luo Jin gave a speech, and the project contractor reported on its research status. The meeting also involved Trade Remedies Bureau leaders, representatives from relevant departments and bureaus of the Ministry, and other stakeholders. The Bureau undertook this research project in order to better understand the impact of trade remedies investigations on industrial harm.

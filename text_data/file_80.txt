@@ -1,9 +1,0 @@
-html: nan
-title: 成都特办党支部开展学习贯彻习近平新时代中国特色社会主义思想主题教育第四次集体学习
-resulting_text: 5月15日，成都特办举行学习贯彻习近平新时代中国特色社会主义思想主题教育第四次集体学习，党员干部围绕“深入学习领会习近平总书记关于全面从严治党、推进自我革命的重要论述”进行研讨交流，付艳、邓德雄同志作重点发言。
-input_url: 20230524211247/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202305/20230503411143.shtml
-returned_url: https://web.archive.org/web/20230523131618/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202305/20230503411143.shtml
-date: 2023-05-25 00:00:00
-translated_title: The Party Branch of Chengdu Special Office Carries Out the Fourth Collective Study on the Theme of Learning and Implementing Xi Jinping Thought on Socialism with Chinese Characteristics in the New Era
-translated_content: May 15, chengdu special office held study and implementation of Xi Jinping new era of socialist thought with Chinese characteristics theme of the fourth collective learning, party members and cadres around the "in-depth study and understanding of the general secretary Xi Jinping on the overall strict governance of the party, promote the self-revolution of the important exposition" to carry out seminars and exchanges, FuYan, DengDeXiong comrades to make key speeches.
-english_summary: On May 15, the Party Branch of Chengdu Special Office held the fourth collective study on the theme of learning and implementing Xi Jinping Thought on Socialism with Chinese Characteristics in the New Era. Party members and cadres gathered to discuss the "in-depth study and understanding of the general secretary Xi Jinping on the overall strict governance of the party, promote the self-revolution of the important exposition." Comrades FuYan and DengDeXiong gave key speeches during the event.

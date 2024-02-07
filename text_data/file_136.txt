@@ -1,9 +1,0 @@
-html: nan
-title: 2021年中国—蒙古经贸合作简况
-resulting_text: 一、双边贸易 2021年，中蒙贸易额91.2亿美元，同比增长35.3%，其中，中国对蒙出口22.3亿美元，同比增长38.1%；自蒙进口68.9亿美元，同比增长34.4%。 二、对蒙投资 2021年，中国企业对蒙 直接投资 流量 2468 万美元。 三、 来 华投资 2021年， 蒙 对华 实际 投资 0.1亿 美元。
-input_url: 20230919035442/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202203/20220303287303.shtml
-returned_url: https://web.archive.org/web/20230921152647/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202203/20220303287303.shtml
-date: 2023-09-19 00:00:00
-translated_title: A Brief Overview of China-Mongolia Economic and Trade Cooperation in 2021
-translated_content: In 2021, China-Mongolia trade amounted to US$9.12 billion, up 35.3 percent year-on-year, of which China's exports to Mongolia amounted to US$2.23 billion, up 38.1 percent year-on-year, and imports from Mongolia amounted to US$6.89 billion, up 34.4 percent year-on-year. Investment in Mongolia In 2021, the flow of direct investment by Chinese enterprises in Mongolia amounted to US$24.68 million. In 2021, the actual investment of Mongolia in China amounted to US$0.1 billion.
-english_summary: China-Mongolia trade in 2021 reached US$9.12 billion, a 35.3% increase from the previous year. China's exports to Mongolia were US$2.23 billion, up 38.1% year-on-year, and imports from Mongolia were US$6.89 billion, up 34.4% year-on-year. In terms of investment, direct investment by Chinese enterprises in Mongolia amounted to US$24.68 million in 2021, while the actual investment of Mongolia in China was US$0.1 billion.

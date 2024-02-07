@@ -1,9 +1,0 @@
-html: nan
-title: 2022年全国电子商务工作会议召开
-resulting_text: 1月19日上午，2022年全国电子商务工作会议在北京以视频方式召开。会议以习近平新时代中国特色社会主义思想为指导，深入学习贯彻党的二十大和中央经济工作会议精神，坚持商务工作“三个重要”定位，回顾2022年全国电子商务工作情况，研判当前面临的形势，部署2023年重点工作。商务部党组成员、部长助理陈春江出席会议并讲话。各省、自治区、直辖市及计划单列市、新疆生产建设兵团商务主管部门和有关单位代表在各分会场参会。
-input_url: 20230131032746/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202301/20230103380396.shtml
-returned_url: https://web.archive.org/web/20230128061616/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202301/20230103380396.shtml
-date: 2023-01-31 00:00:00
-translated_title: National Conference on E-Commerce 2022
-translated_content: On the morning of January 19, the 2022 National E-commerce Work Conference was held by video in Beijing. The meeting was guided by Xi Jinping's thought of socialism with Chinese characteristics in the new era, in-depth study and implementation of the 20th CPC National Congress and the spirit of the Central Economic Work Conference, adhering to the "three important" positioning of the commercial work, reviewing the work of e-commerce in 2022, examining the current situation, and deploying the key work in 2023. Chen Chunjiang, member of the party group and assistant minister of the Ministry of Commerce, attended the meeting and delivered a speech. Representatives of commerce departments and relevant units of provinces, autonomous regions, municipalities directly under the central government, municipalities with separate plans, and Xinjiang Production and Construction Corps participated in the meeting in each branch.
-english_summary: On January 19, the 2022 National E-commerce Work Conference was held by video in Beijing.

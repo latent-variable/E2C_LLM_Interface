@@ -1,9 +1,0 @@
-html: nan
-title: 商务部2024年考试录用公务员报考政策问答
-resulting_text: 商务部2024年报考政策问答.pdf
-input_url: 20231016052714/http://www.mofcom.gov.cn/article/zwgk/gkrsxx/202310/20231003446034.shtml
-returned_url: https://web.archive.org/web/20231015052820/http://www.mofcom.gov.cn/article/zwgk/gkrsxx/202310/20231003446034.shtml
-date: 2023-10-16 00:00:00
-translated_title: Department of Commerce 2024 Exam Application Policy Q&A for Civil Servants
-translated_content: Department of Commerce 2024 Application Policy Q&A.pdf
-english_summary: The Department of Commerce has released an Application Policy Q&A document for civil servants applying for the 2024 Exam. The document provides guidance on eligibility requirements, application procedures, and other important information related to the exam. It is intended to assist civil servants who are interested in pursuing a career in the Department of Commerce and want to prepare for the exam. The document covers topics such as exam eligibility, application process, examination fees, exam content, and examination timelines.

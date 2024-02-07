@@ -1,9 +1,0 @@
-html: nan
-title: 大连特办组织召开辽宁自贸试验区情况交流会
-resulting_text: 2023年6月1日，大连特办赴大连自贸片区RCEP(大连)国际商务区、大连汽车码头、中国华粮物流集团实地调研，并组织召开辽宁自贸试验区情况座谈会，与辽宁省商务厅和沈阳、大连、营口三个自贸片区就制度创新举措、当前存在问题、制约发展的症结、重点产业和企业的诉求以及下一步工作考虑等情况进行交流，共同探讨推动辽宁自贸试验区高质量发展的新思路，助力辽宁高水平开放实现新突破，为国家实施自贸试验区提升战略和新时代东北全面振兴作出更大贡献。
-input_url: 20230602231411/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202306/20230603413766.shtml
-returned_url: https://web.archive.org/web/20230603041544/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202306/20230603413766.shtml
-date: 2023-06-03 00:00:00
-translated_title: Dalian Special Office Organizes Liaoning Pilot Free Trade Zone Information Exchange Meeting
-translated_content: On June 1, 2023, Dalian Special Office went to Dalian FTZ RCEP (Dalian) International Business Zone, Dalian Automobile Terminal, and China Huagang Logistics Group for field research, and organized a symposium on the situation of Liaoning Pilot Free Trade Zone, to exchange views with the Liaoning Provincial Department of Commerce and the three FTZs of Shenyang, Dalian, and Yingkou on the systematic innovation initiatives, the current problems, the constraints on the development of the crux of the problem, the demands of the key industries and enterprises, and the next step of work considerations. 
-english_summary: On June 1, 2023, the Dalian Special Office conducted field research in Dalian FTZ RCEP (Dalian) International Business Zone, Dalian Automobile Terminal, and China Huagang Logistics Group to organize a symposium on the situation of Liaoning Pilot Free Trade Zone. The purpose of the meeting was to exchange views with the Liaoning Provincial Department of Commerce and the three FTZs of Shenyang, Dalian, and Yingkou on systematic innovation initiatives, current problems, constraints on development, demands of key industries and enterprises, and next steps of work considerations.

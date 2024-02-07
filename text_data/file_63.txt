@@ -1,9 +1,0 @@
-html: nan
-title: 成都特办会同地方商务部门联合杭州特办在浙江宁波开展促进内外贸一体化交流活动
-resulting_text: 4月6-7日，成都特办会同成都、乐山商务局及成都市零售商协会，联合杭州特办在浙江宁波开展东西部商务部门促进内外贸一体化交流活动。付艳特派员带队调研了有意向开拓川渝市场的外贸企业，并赴宁波对口帮扶凉山农产品直销中心调研。
-input_url: 20230419054254/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202304/20230403404097.shtml
-returned_url: https://web.archive.org/web/20230417054501/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202304/20230403404097.shtml
-date: 2023-04-19 00:00:00
-translated_title: Chengdu Special Office, together with local commercial departments, and Hangzhou Special Office carried out exchange activities to promote the integration of domestic and foreign trade in Ningbo, Zhejiang Province.
-translated_content: On April 6-7, the Chengdu Special Office, together with the Commerce Bureaus of Chengdu and Leshan and the Chengdu Retailers Association, and the Hangzhou Special Office, carried out an exchange activity in Ningbo, Zhejiang Province, to promote the integration of domestic and foreign trade between the commerce departments of the East and the West. Commissioner Fu Yan led a team to investigate foreign trade enterprises interested in exploring the Sichuan and Chongqing markets, and went to Ningbo's counterpart to help the direct sales center of agricultural products in Liangshan.
-english_summary: The Chengdu Special Office, along with local commercial departments and the Hangzhou Special Office, conducted an exchange activity in Ningbo, Zhejiang Province, from April 6-7, to promote the integration of domestic and foreign trade. Commissioner Fu Yan led a team to investigate foreign trade enterprises interested in exploring the Sichuan and Chongqing markets, and also visited Ningbo's counterpart to assist the direct sales center of agricultural products in Liangshan.

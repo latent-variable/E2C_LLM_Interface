@@ -1,9 +1,0 @@
-html: nan
-title: 商务部关于公布2024—2025年度钨、锑、白银出口国营贸易企业名单的通知
-resulting_text: 根据《中华人民共和国对外贸易法》和《中华人民共和国货物进出口管理条例》，现公布2024—2025年钨、锑、白银出口国营贸易企业名单，请通知至相关企业。 附件： 2024—2025年度钨、锑、白银出口国营贸易企业名单.wps 商务部 2023年12月28日
-input_url: 20231230015821/http://www.mofcom.gov.cn/article/zwgk/gkzcfb/202312/20231203463759.shtml
-returned_url: https://web.archive.org/web/20231229181100/http://www.mofcom.gov.cn/article/zwgk/gkzcfb/202312/20231203463759.shtml
-date: 2023-12-30 00:00:00
-translated_title: Circular of the Ministry of Commerce on the Announcement of the List of State Trading Enterprises Exporting Tungsten, Antimony and Silver for the Years 2024-2025
-translated_content: According to the Foreign Trade Law of the People's Republic of China and the Regulations of the People's Republic of China on Administration of Import and Export of Goods, hereby announces the List of State Trading Enterprises Exporting Tungsten, Antimony and Silver in 2024-2025, please notify to the relevant enterprises. Annex: List of State Trading Enterprises Exporting Tungsten, Antimony and Silver in 2024-2025.wps Ministry of Commerce December 28, 2023
-english_summary: The circular is an announcement by the Ministry of Commerce of the People's Republic of China regarding the List of State Trading Enterprises exporting tungsten, antimony, and silver for the years 2024-2025. This is done in accordance with the Foreign Trade Law of the People's Republic of China and the Regulations of the People's Republic of China on Administration of Import and Export of Goods. The relevant enterprises are informed about the list.

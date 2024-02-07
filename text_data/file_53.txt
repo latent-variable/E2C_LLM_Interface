@@ -1,9 +1,0 @@
-html: nan
-title: 杨广元参赞会见巴基斯坦投资委员会卡拉奇办公室负责人
-resulting_text: 2023年4月4日，驻卡拉奇总领馆杨广元参赞会见巴基斯坦投资委员会(Board of Investment,BOI)卡拉奇办公室负责人阿夫塔布·艾哈迈德(Aftab Ahmed)，总领馆郑超领事、邓海啸副领事参加。 阿夫塔布介绍了巴政府近期出台的工作签证便利政策，表示BOI愿对中资企业员工申请工作签证给予支持。杨广元表示，总领馆欢迎巴方出台工作签证便利政策，希望与BOI就便利中资企业员工申请工作签证问题开展长期合作。 杨广元参赞与巴基斯坦投资委员会卡拉奇办公室负责人阿夫塔布·艾哈迈德交谈
-input_url: 20230406174242/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202304/20230403401523.shtml
-returned_url: https://web.archive.org/web/20230408043717/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202304/20230403401523.shtml
-date: 2023-04-07 00:00:00
-translated_title: Counselor Yang Guangyuan met with the Head of the Karachi Office of Pakistan Investment Commission (PIC)
-translated_content: On April 4, 2023, Counselor Yang Guangyuan of the Consulate General in Karachi met with Aftab Ahmed, Head of the Karachi Office of the Board of Investment (BOI) of Pakistan, with the participation of Consul Zheng Chao and Vice Consul Deng Haixiao of the Consulate General. Aftab introduced the work visa facilitation policy recently introduced by the Pakistani government, and expressed BOI's willingness to support employees of Chinese enterprises in applying for work visas. Counselor Yang Guangyuan said that the Consulate General welcomes the work visa facilitation policy introduced by the Pakistani side and hopes to carry out long-term cooperation with BOI on facilitating the application for work visas by employees of Chinese-funded enterprises. Counselor Yang Guangyuan talked with Aftab Ahmad, Head of BOI Karachi Office.
-english_summary: On April 4, 2023, Counselor Yang Guangyuan of the Consulate General in Karachi met with Aftab Ahmed, Head of the Karachi Office of the Board of Investment (BOI) of Pakistan, to discuss work visa facilitation policy and cooperation between the Pakistani government and Chinese enterprises.

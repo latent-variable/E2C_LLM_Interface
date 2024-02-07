@@ -1,9 +1,0 @@
-html: nan
-title: 2023年二十国集团贸易投资部长会议成果文件及主席总结
-resulting_text: 2023年8月24—25日，二十国集团（G20）贸易投资部长会议在印度斋浦尔举行。本次会议重点围绕多边贸易促进全球增长和繁荣、世贸组织改革、贸易和韧性全球价值链、促进中小微企业融入全球贸易以及贸易物流等议题展开讨论，会后发表了成果文件及主席总结（附后）。 附件： 二十国集团贸易投资部长会议成果文件及主席总结（英文）
-input_url: 20230907034252/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202309/20230903438417.shtml
-returned_url: https://web.archive.org/web/20240131234744/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202309/20230903438417.shtml
-date: 2023-09-07 00:00:00
-translated_title: Outcome document of the 2023 G20 Trade and Investment Ministers' Meeting and Chair's Summary
-translated_content: On August 24-25, 2023, the Group of Twenty (G20) Trade and Investment Ministers met in Jaipur, India. The meeting focused on multilateral trade for global growth and prosperity, WTO reform, trade and resilient global value chains, promoting the integration of MSMEs into global trade, and trade logistics, and resulted in the publication of an outcome document and a Chair's Summary (attached). Annex Outcome document and Chair's summary of the G20 Trade and Investment Ministers' Meeting (English)
-english_summary: The 2023 G20 Trade and Investment Ministers' Meeting was held in Jaipur, India, on August 24-25. The meeting discussed multilateral trade for global growth and prosperity, WTO reform, global value chains, MSMEs integration, and trade logistics. The outcome document and Chair's Summary highlight these topics.

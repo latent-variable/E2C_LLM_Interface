@@ -1,9 +1,0 @@
-html: nan
-title: 胡剑萍特派员率队开展汽车流通工作调研
-resulting_text: 4月3日，西安特办会同陕西省商务厅、西安市商务局赴比亚迪4S店、西安公诚二手车交易市场等地开展汽车流通工作调研，同部分汽车销售企业、二手车交易市场和二手车经销企业开展座谈。胡剑萍特派员深入了解企业经营情况，回应企业有关诉求和问题。陕西省商务厅副厅长郭绍敏、二级巡视员张武新，西安市商务局副局长陈剑锋参加调研。
-input_url: 20230410050107/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202304/20230403401715.shtml
-returned_url: https://web.archive.org/web/20230407130546/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202304/20230403401715.shtml
-date: 2023-04-10 00:00:00
-translated_title: Commissioner Hu Jianping led a team to carry out research on automobile circulation work.
-translated_content: On April 3, the Xi'an Special Office, together with the Department of Commerce of Shaanxi Province and the Xi'an Municipal Bureau of Commerce, went to BYD 4S stores and Xi'an Gongcheng Used Car Market to carry out research on automobile circulation, and held talks with some automobile sales enterprises, used-car markets and used-car dealerships. Commissioner Hu Jianping understood the operation situation of the enterprises and responded to the enterprises' demands and problems. Guo Shaomin, deputy director of Shaanxi Provincial Department of Commerce, and Zhang Wuxin, second-level inspector, and Chen Jianfeng, deputy director of Xi'an Municipal Bureau of Commerce, participated in the research.
-english_summary: Commissioner Hu Jianping led a team to conduct research on automobile circulation work. The team visited BYD 4S stores and Xi'an Gongcheng Used Car Market, and held talks with automobile sales enterprises, used-car markets, and used-car dealerships. Commissioner Hu Jianping understood the operation situation of the enterprises and responded to their demands and problems. Guo Shaomin, deputy director of Shaanxi Provincial Department of Commerce, Zhang Wuxin, second-level inspector, and Chen Jianfeng, deputy director of Xi'an Municipal Bureau of Commerce, also participated in the research.

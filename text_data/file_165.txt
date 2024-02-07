@@ -1,9 +1,0 @@
-html: nan
-title: 中华人民共和国商务部公告2023年第49号 2024—2025年度钨、锑、白银出口国营贸易企业申报条件及申报程序
-resulting_text: 为保护资源和环境，加强稀有金属出口管理，根据《中华人民共和国对外贸易法》《中华人民共和国货物进出口管理条例》有关规定，我部制定了《2024—2025年度钨、锑、白银出口国营贸易企业申报条件及申报程序》，现予公布。 商务部 2023年11月9日 2024——2025年度钨锑白银资质公告.doc
-input_url: 20231115052719/http://www.mofcom.gov.cn/article/zwgk/gkzcfb/202311/20231103453161.shtml
-returned_url: https://web.archive.org/web/20231113135627/http://www.mofcom.gov.cn/article/zwgk/gkzcfb/202311/20231103453161.shtml
-date: 2023-11-15 00:00:00
-translated_title: Announcement of the Ministry of Commerce of the People's Republic of China No. 49 of 2023 Declaration Conditions and Procedures for State Trading Enterprises Exporting Tungsten, Antimony and Silver for the Years 2024-2025
-translated_content: In order to protect the resources and environment and strengthen the management of export of rare metals, according to the Foreign Trade Law of the People's Republic of China and the Regulations of the People's Republic of China on the Administration of the Import and Export of Goods, the Ministry of Commerce has formulated the "Declaring Requirements for State Trading Enterprises to Export Tungsten, Antimony and Silver for the Years of 2024-2025 and the Declaring Procedures", which is hereby announced. Ministry of Commerce November 9, 2023 Announcement on the Qualification of Tungsten, Antimony and Silver for the Years 2024--2025.doc
-english_summary: The Ministry of Commerce of the People's Republic of China announced the "Declaring Requirements for State Trading Enterprises to Export Tungsten, Antimony and Silver for the Years of 2024-2025 and the Declaring Procedures" on November 9, 2023. The announcement is aimed at strengthening the management of export of rare metals, protecting resources and the environment, and complying with the Foreign Trade Law of the People's Republic of China and the Regulations of the People's Republic of China on the Administration of the Import and Export of Goods.

@@ -1,9 +1,0 @@
-html: nan
-title: 商务部公告2023年第48号 关于原产于台湾地区的进口聚碳酸酯反倾销调查的延期公告
-resulting_text: 根据《中华人民共和国反倾销条例》的规定，2022年11月30日，商务部发布2022年第35号公告，决定对原产于台湾地区的进口聚碳酸酯进行反倾销立案调查。 鉴于本案情况复杂，根据《中华人民共和国反倾销条例》第二十六条的规定，商务部决定将本案的调查期限延长至2024年5月29日。 中华人民共和国商务部 2023年11月10日
-input_url: 20231112010708/http://www.mofcom.gov.cn/article/zwgk/gkzcfb/202311/20231103452860.shtml
-returned_url: https://web.archive.org/web/20231110230646/http://www.mofcom.gov.cn/article/zwgk/gkzcfb/202311/20231103452860.shtml
-date: 2023-11-12 00:00:00
-translated_title: MOFCOM Announcement No. 48 of 2023 Extension of Anti-Dumping Investigation on Imports of Polycarbonate Originating in Taiwan
-translated_content: In accordance with the provisions of the Anti-Dumping Regulations of the People's Republic of China, on November 30, 2022, the Ministry of Commerce (MOFCOM) issued Announcement No. 35 of 2022, deciding to open an anti-dumping investigation into the imports of polycarbonate originating in Taiwan. In view of the complexity of this case, the Ministry of Commerce decided to extend the investigation period of this case to May 29, 2024, in accordance with the provisions of Article 26 of the Regulations of the People's Republic of China on Anti-Dumping. Ministry of Commerce of the People's Republic of China November 10, 2023
-english_summary: The Chinese Ministry of Commerce (MOFCOM) has extended the anti-dumping investigation on imports of polycarbonate originating in Taiwan until May 29, 2024. The decision was made due to the complexity of the case and is in accordance with the provisions of China's Anti-Dumping Regulations.

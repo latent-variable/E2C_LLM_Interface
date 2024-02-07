@@ -1,9 +1,0 @@
-html: nan
-title: 中日出口管制对话机制第一次会议在东京举行
-resulting_text: 2024年1月17日，中日出口管制对话机制第一次会议在日本东京举行。会议由商务部安全与管制局局长江前良与日本经济产业省贸易管理部部长猪狩克朗共同主持。双方就出口管制领域关切事项进行了讨论。双方同意继续保持密切沟通，加深对彼此出口管制制度的理解，提高出口管制措施的透明度，确保正常贸易不受阻碍。
-input_url: 20240126011922/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202401/20240103468923.shtml
-returned_url: https://web.archive.org/web/20240125092003/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202401/20240103468923.shtml
-date: 2024-01-26 00:00:00
-translated_title: First Meeting of China-Japan Export Control Dialogue Mechanism Held in Tokyo
-translated_content: On January 17, 2024, the first meeting of the China-Japan Export Control Dialogue Mechanism was held in Tokyo, Japan. The meeting was co-chaired by Mr. Jiang Qianliang, Director General of the Bureau of Security and Control of the Ministry of Commerce, and Mr. Katsuru Inokari, Director General of the Trade Administration Department of the Ministry of Economy, Trade and Industry of Japan. Both sides discussed matters of concern in the field of export control. Both sides agreed to continue to maintain close communication, deepen their understanding of each other's export control systems, enhance the transparency of export control measures and ensure that normal trade is not impeded.
-english_summary: The first meeting of the China-Japan Export Control Dialogue Mechanism was held in Tokyo on January 17, 2024. The meeting was co-chaired by Mr. Jiang Qianliang, Director General of the Bureau of Security and Control of the Ministry of Commerce, and Mr. Katsuru Inokari, Director General of the Trade Administration Department of the Ministry of Economy, Trade and Industry of Japan. The two sides discussed matters of concern in the field of export control, agreed to maintain close communication, and vowed to ensure normal trade is not affected.
