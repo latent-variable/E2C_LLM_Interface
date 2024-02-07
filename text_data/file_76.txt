@@ -1,0 +1,9 @@
+html: nan
+title: 世贸组织电子商务谈判召开 2023年度第三轮磋商会议
+resulting_text: 4月26日至28日，世贸组织电子商务谈判在线召开2023年度第三轮磋商会议。会上，参加方主要围绕个人信息保护、数据流动、源代码、使用密码的信息通信技术产品、单一窗口数据交换和系统可互操作性等议题展开讨论。
+input_url: 20230515224557/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202305/20230503409072.shtml
+returned_url: https://web.archive.org/web/20230520110438/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202305/20230503409072.shtml
+date: 2023-05-16 00:00:00
+translated_title: WTO negotiations on electronic commerce convene third round of consultations in 2023
+translated_content: From April 26 to 28, the WTO Negotiations on Electronic Commerce held its third round of consultations for 2023 online. At the meeting, participants focused their discussions on topics such as protection of personal information, data flows, source codes, ICT products using passwords, single window data exchange and system interoperability.
+english_summary: The World Trade Organization (WTO) held its third round of consultations on electronic commerce in 2023. The discussions revolved around topics such as data privacy, information technology (IT) products with passwords, and the integration of information exchange through a "single window" system.

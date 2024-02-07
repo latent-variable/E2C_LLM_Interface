@@ -1,0 +1,9 @@
+html: nan
+title: 赵文宇参赞出席中国(云南)-老挝经贸合作项目签约仪式
+resulting_text: 中共云南省委书记王宁率团访问老挝期间，云南省与老挝于3月29日下午在万象举办中国(云南)-老挝经贸合作项目签约仪式，云南省商务厅厅长李晨阳、中国驻老挝大使馆经济商务处参赞赵文宇、老中合作委员会副主席赛萨纳、老挝万象市副市长兼万象市老中友协会长普翁等出席仪式并共同见证9份滇老经贸合作文件签署。
+input_url: 20230331204328/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202303/20230303399995.shtml
+returned_url: https://web.archive.org/web/20230331081854/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202303/20230303399995.shtml
+date: 2023-04-01 00:00:00
+translated_title: Counselor Zhao Wenyu Attended the Signing Ceremony of China (Yunnan)-Laos Economic and Trade Cooperation Projects
+translated_content: During the visit to Laos led by Wang Ning, Secretary of CPC Yunnan Provincial Committee, Yunnan Province and Laos held a signing ceremony for China (Yunnan)-Laos economic and trade cooperation projects in Vientiane on the afternoon of March 29th. Li Chenyang, Director of Yunnan Provincial Department of Commerce, Zhao Wenyu, Counselor of Economic and Commercial Office of the Chinese Embassy in Laos, Sai Thanat, Vice Chairman of Laos-China Cooperation Committee, and Phuong Ong, Deputy Mayor of Vientiane City and President of Vientiane Lao-Chinese Friendship Association of Laos attended the ceremony and witnessed the signing of nine documents on Yunnan-Laos economic and trade cooperation together. Witnessed the signing of 9 documents on Yunnan-Laos economic and trade cooperation.
+english_summary: Counselor Zhao Wenyu attended a signing ceremony in Vientiane, Laos on March 29th. The ceremony involved Yunnan Province and Laos, and nine documents were signed related to economic and trade cooperation between the two regions.

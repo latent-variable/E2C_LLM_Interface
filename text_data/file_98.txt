@@ -1,0 +1,13 @@
+html: nan
+title: 商务部关于印发《自贸试验区重点工作清单（2023—2025年）》的通知
+resulting_text: 商务部关于印发《自贸试验区重点工作清单（2023—2025年）》的通知.pdf
+input_url: 20230620221819/http://www.mofcom.gov.cn/article/zwgk/gkzcfb/202306/20230603417508.shtml
+returned_url: https://web.archive.org/web/20230621014132/http://www.mofcom.gov.cn/article/zwgk/gkzcfb/202306/20230603417508.shtml
+date: 2023-06-21 00:00:00
+translated_title: Circular of the Ministry of Commerce on the Issuance of the List of Priorities of Pilot Free Trade Zones (2023-2025)
+translated_content: Circular of the Ministry of Commerce on the Issuance of the List of Priorities of Pilot Free Trade Zones (2023-2025).pdf
+english_summary: The circular issued by the Ministry of Commerce outlines the priorities for pilot free trade zones from 2023 to 2025. These priorities aim to promote the development of the zones, attract investment, create jobs, and contribute to the overall growth of the economy.
+
+The list of priorities includes several key areas for development, such as infrastructure improvements to enhance trade facilitation, business environment optimization to encourage innovation, and enhanced connectivity to support cross-border trade. Additionally, the priorities also emphasize the need to promote industries capable of achieving high growth, such as hi-tech manufacturing and services, and encourage the development of the circular economy.
+
+Overall, the circular highlights the importance of fostering a competitive and enabling business environment for investors in pilot free trade zones to further drive economic growth.

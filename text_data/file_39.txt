@@ -1,0 +1,9 @@
+html: nan
+title: 昆明特办派员参加省直单位弘扬“西畴精神”宣讲报告会
+resulting_text: 2月3日，昆明特办派员参加参加省直单位弘扬“西畴精神”宣讲报告会，深入学习贯彻党的二十大和省委十一届三次全会精神，大力弘扬“西畴精神”，凝聚奋进新征程建功新时代的磅礴力量，为实现省委提出的“3815”战略发展目标，推进云南高质量跨越式发展而不懈奋斗。
+input_url: 20230304051245/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202302/20230203393821.shtml
+returned_url: https://web.archive.org/web/20230304110743/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202302/20230203393821.shtml
+date: 2023-03-05 00:00:00
+translated_title: Kunming Special Office sent members to participate in the provincial units to carry forward the "spirit of Xichou" preaching report.
+translated_content: On February 3, Kunming Special Office sent members to participate in the provincial units to carry forward the "spirit of Xichou" preaching report, in-depth study and implementation of the 20th CPC National Congress and the spirit of the Third Plenary Session of the 11th Provincial Party Committee, vigorously carry forward the "spirit of Xichou", and cohesion of the new journey into a new era of success! The majestic power to realize the "3815" strategic development goal put forward by the provincial party committee, and to promote Yunnan's high-quality leapfrog development and unremitting struggle.
+english_summary: On February 3, Kunming Special Office members participated in provincial units to carry forward the "spirit of Xichou" preaching report, studying and implementing the 20th CPC National Congress and the spirit of the Third Plenary Session of the 11th Provincial Party Committee, vigorously promoting the "spirit of Xichou" and cohesion in the new journey, and striving towards Yunnan's high-quality leapfrog development.

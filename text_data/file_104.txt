@@ -1,0 +1,9 @@
+html: nan
+title: 关于发布2023年蔺草及蔺草制品出口配额公开招标第二次招标系数的通知
+resulting_text: 有关蔺草及蔺草制品出口企业： 按照《2023年蔺草及蔺草制品出口配额公开招标公告》（商务部公告2022年第44号）的有关规定，经出口配额招标委员会审核，第二次招标系数为1.35。 商务部对外贸易司 2023年7月3日
+input_url: 20230705193035/http://www.mofcom.gov.cn/article/zwgk/gkzcfb/202307/20230703419678.shtml
+returned_url: https://web.archive.org/web/20230703141328/http://www.mofcom.gov.cn/article/zwgk/gkzcfb/202307/20230703419678.shtml
+date: 2023-07-06 00:00:00
+translated_title: Notice on the Release of the Coefficients of the Second Tender for the Public Tender for Export Quotas for Rushes and Rushes Products for the Year 2023
+translated_content: Relevant enterprises exporting rushes and rushes products: In accordance with the relevant provisions of the Announcement on Public Bidding for Export Quotas for Rushes and Rushes Products in 2023 (MOFCOM Announcement No. 44 of 2022), the coefficient of the second bidding is 1.35 after the examination by the Export Quota Bidding Committee. Department of Foreign Trade, Ministry of Commerce July 3, 2023
+english_summary: The announcement of the Coefficients of the Second Tender for the Public Tender for Export Quotas for Rushes and Rushes Products for the year 2023 was released. The coefficient has been determined to be 1.35 by the Export Quota Bidding Committee after examination.

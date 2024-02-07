@@ -1,0 +1,14 @@
+html: nan
+title: 2023年成品油（燃料油）非国营贸易进口允许量申领条件、分配原则及相关程序
+resulting_text: 根据《中华人民共和国货物进出口管理条例》和原外经贸部令2002年第27号（《原油、成品油、化肥国营贸易进口经营管理试行办法》），商务部制定了《2023年成品油（燃料油）非国营贸易进口允许量申领条件、分配原则及相关程序》，现予公布。 商务部 2023年1月6日 附件：1. 2023年成品油（燃料油）非国营贸易进口允许量申领条件、分配原则及相关程序.wps 2. 2023年成品油（燃料油）非国营贸易进口企业
+名单.xlsx
+input_url: 20230115174032/http://www.mofcom.gov.cn/article/zwgk/gkzcfb/202301/20230103379132.shtml
+returned_url: https://web.archive.org/web/20230113181611/http://www.mofcom.gov.cn/article/zwgk/gkzcfb/202301/20230103379132.shtml
+date: 2023-01-16 00:00:00
+translated_title: Conditions for Application for Permitted Volume of Imports of Refined Products (Fuel Oil) for Non-State Trading in 2023, Allocation Principles and Related Procedures
+translated_content: In accordance with the Regulations of the People's Republic of China on Administration of Import and Export of Goods and the Decree of the former Ministry of Foreign Trade and Economic Cooperation No. 27 of 2002 ("Trial Measures for the Management of Import and Operation of State Trade in Crude Oil, Refined Products and Chemical Fertilizers"), the Ministry of Commerce (MOFCOM) has formulated the Conditions for Claiming Allowable Quantity of Refined Products (Fuel Oil) for Non-State Trade in Import, Allocation Principles and Relevant Procedures for the Year of 2023, which is now promulgated. Ministry of Commerce January 6, 2023 Annexes: 1. 2023 Refined Oil (Fuel Oil) Non-State Trade Import Permitted Volume Application Conditions, Allocation Principles and Related Procedures.wps 2. 2023 Refined Oil (Fuel Oil) Non-State Trade Import Enterprises
+List.xlsx
+english_summary: The Ministry of Commerce (MOFCOM) has published the Conditions for Claiming Allowable Quantity of Refined Products (Fuel Oil) for Non-State Trade in Import, Allocation Principles and Relevant Procedures for the Year of 2023. This is based on regulations governing the administration of import and export of goods in the People's Republic of China, as well as the Trial Measures for the Management of Import and Operation of State Trade in Crude Oil, Refined Products and Chemical Fertilizers, which was issued by the former Ministry of Foreign Trade and Economic Cooperation in 2002.
+The document includes the application conditions, allocation principles, and related procedures for non-state trading companies seeking to import a permitted volume of refined products (fuel oil) for non-state trade in 2023. The application period for the permit is between January 7th and February 17th, 2023.
+The document also includes a list of enterprises eligible for the permit, which is based on a number of criteria including trading record, overseas energy cooperation projects, financial capacity, and tax payment records.
+Non-state trading companies eligible to apply for the permit must fulfill the designated criteria, submit relevant documents to MOFCOM, and obtain the permit within the specified timelines.

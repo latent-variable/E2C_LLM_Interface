@@ -1,0 +1,9 @@
+html: nan
+title: “统筹发展和安全、完善国家出口管制体系”专题研究班成功举办
+resulting_text: 2023年6月12-16日，“统筹发展和安全、完善国家出口管制体系”专题研究班在江西干部学院成功举办。我局蒋成华局长出席开班式并为学员作专题授课、王晨副局长作专题辅导报告。
+input_url: 20230630010445/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202306/20230603417311.shtml
+returned_url: https://web.archive.org/web/20230625075915/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202306/20230603417311.shtml
+date: 2023-06-30 00:00:00
+translated_title: Successful organization of the seminar on "Integrating development and security and improving the national export control system".
+translated_content: From June 12 to 16, 2023, the workshop on "Integrating Development and Security and Improving National Export Control System" was successfully held in Jiangxi Cadre College. Mr. Jiang Chenghua, Director of the Bureau, attended the opening ceremony and gave a special lecture to the participants, while Mr. Wang Chen, Deputy Director of the Bureau, gave a special tutorial report.
+english_summary: The seminar on "Integrating Development and Security and Improving National Export Control System" was held from June 12 to 16, 2023, at Jiangxi Cadre College. Mr. Jiang Chenghua, Director of the Bureau, and Mr. Wang Chen, Deputy Director of the Bureau, participated and gave special lectures and tutorial reports respectively.

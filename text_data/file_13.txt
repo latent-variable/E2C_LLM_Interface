@@ -1,0 +1,9 @@
+html: nan
+title: 关于发布获得2023年蔺草及蔺草制品出口配额公开招标投标资格企业名单和第一次招标系数的通知
+resulting_text: 按照《2023年蔺草及蔺草制品出口配额公开招标公告》（商务部公告2022年第44号）的有关规定，经招标委员会审核，19家企业符合2023年蔺草及蔺草制品出口配额公开招标投标资格（企业名单见附件）。第一次招标系数为1.46。 附件： 获得2023年蔺草及蔺草制品出口配额公开招标投标资格企业名单.wps 商务部对外贸易司 2023年1月12日
+input_url: 20230113054024/http://www.mofcom.gov.cn/article/zwgk/gkzcfb/202301/20230103378910.shtml
+returned_url: https://web.archive.org/web/20230112174556/http://www.mofcom.gov.cn/article/zwgk/gkzcfb/202301/20230103378910.shtml
+date: 2023-01-13 00:00:00
+translated_title: Notice on the Release of the List of Enterprises Qualified to Receive the 2023 Public Tender for Export Quotas for Rushes and Rushes Products and the First Tender Coefficients
+translated_content: In accordance with the relevant provisions of the Announcement on Public Tender for Export Quotas for Rushes and Rushes Products in 2023 (MOFCOM Announcement No. 44 of 2022), after examination by the Tender Committee, 19 enterprises are qualified to bid for the Public Tender for Export Quotas for Rushes and Rushes Products in 2023 (the list of the enterprises is in the Appendix). The coefficient of the first bidding is 1.46. Annex: List of Enterprises Eligible for Public Bidding of Quotas for Exports of Rushes and Ruscus Products in 2023.wps Department of Foreign Trade, Ministry of Commerce January 12, 2023
+english_summary: The Ministry of Commerce announced the list of 19 companies eligible to participate in the 2023 public tender for export quotas for rushes and rushes products, with a first tender coefficient of 1.46. The list of eligible companies can be found in the annex. The announcement was made on January 12, 2023.

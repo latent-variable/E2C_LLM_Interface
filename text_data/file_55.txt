@@ -1,0 +1,9 @@
+html: nan
+title: 李成钢大使会见孟加拉国常驻世贸组织大使
+resulting_text: 3月31日，李成钢大使应约会见孟加拉国常驻世贸组织大使Mohammad Sufiur Rahman，双方就世贸组织工作及第十三届部长级会议等交换意见。
+input_url: 20230406174242/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202304/20230403401206.shtml
+returned_url: https://web.archive.org/web/20230404232014/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202304/20230403401206.shtml
+date: 2023-04-07 00:00:00
+translated_title: Ambassador Li Chenggang meets with the Ambassador of Bangladesh to the WTO
+translated_content: On March 31, Ambassador Li Chenggang met with Ambassador Mohammad Sufiur Rahman, Permanent Representative of Bangladesh to the WTO, and exchanged views on the work of the WTO and the Thirteenth Ministerial Conference.
+english_summary: Ambassador Li Chenggang met with the Ambassador of Bangladesh to the WTO, discussed work at the WTO and upcoming Ministerial Conference on March 31.

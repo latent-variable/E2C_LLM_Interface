@@ -1,0 +1,9 @@
+html: nan
+title: 商务部2023年度拟录用公务员公示公告
+resulting_text: 根据2023年度中央机关及其直属机构考试录用公务员工作有关要求，经过笔试、面试、体检和考察等程序，确定帅思达等29人为商务部拟录用公务员，现予以公示。公示期间如有问题，请向商务部人事司反映。 公示时间：2023年6月5日-6月9日（5个工作日） 监督电话：010-65198933 联系地址：北京市东城区东长安街2号 邮政编码：100731 商务部人事司 2023年6月2日 商务部2023年度拟录用公务员名单.pdf
+input_url: 20230606054009/http://www.mofcom.gov.cn/article/zwgk/gkrsxx/202306/20230603414139.shtml
+returned_url: https://web.archive.org/web/20230605040548/http://www.mofcom.gov.cn/article/zwgk/gkrsxx/202306/20230603414139.shtml
+date: 2023-06-06 00:00:00
+translated_title: Department of Commerce's 2023 Announcement of Proposed Civil Service Employments
+translated_content: According to the requirements of the 2023 central authorities and their directly subordinate organizations to recruit civil servants, after the written test, interview, physical examination and inspection procedures, to determine the Shuai Sida and other 29 people for the Ministry of Commerce to be recruited as civil servants, is hereby publicized. If you have any questions during the publicity period, please reflect them to the Personnel Department of the Ministry of Commerce. Public Notice Time: June 5, 2023 - June 9 (5 working days) Supervision Tel: 010-65198933 Contact Address: No. 2, East Chang'an Street, Dongcheng District, Beijing, China Zip Code: 100731 Personnel Department of the Ministry of Commerce June 2, 2023 List of Civil Servants to be Recruited by the Ministry of Commerce in 2023.pdf
+english_summary: The Department of Commerce announced the proposed civil service employments for the Ministry of Commerce in 2023, with Shuai Sida and other 29 people being selected through the recruitment process. The announcement is publicized for 5 working days, from June 5th to June 9th, with any inquiries to be directed to the Personnel Department of the Ministry of Commerce. The contact information for the Personnel Department is given, including a supervision phone number and address.

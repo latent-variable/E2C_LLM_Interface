@@ -1,0 +1,9 @@
+html: nan
+title: 商务部2024年度考试录用公务员公告
+resulting_text: 中央机关及其直属机构2024年度考试录用公务员职位已经公布。商务部2024年计划招录42名公务员，详见附件。报名时间为2023年10月15日8:00至10月24日18:00，欢迎广大有志青年踊跃报考！ 咨询电话：010-65198336 附件： 商务部2024年考试录用公务员职位表 商务部人事司 2023年10月13日
+input_url: 20231016052714/http://www.mofcom.gov.cn/article/zwgk/gkrsxx/202310/20231003446027.shtml
+returned_url: https://web.archive.org/web/20231015052930/http://www.mofcom.gov.cn/article/zwgk/gkrsxx/202310/20231003446027.shtml
+date: 2023-10-16 00:00:00
+translated_title: Department of Commerce 2024 Examination Announcement for Civil Servants
+translated_content: Positions for civil servants to be recruited in the 2024 examination of the central authorities and their directly subordinate organizations have been announced. The Ministry of Commerce plans to recruit 42 civil servants in 2024, see the annex for details. Application time for October 15, 2023 8:00 to October 24, 18:00, welcome the majority of aspiring young people to apply! Tel: 010-65198336 Annex: Ministry of Commerce 2024 Examination Recruitment of Civil Servants Position List Department of Personnel, Ministry of Commerce October 13, 2023
+english_summary: The Department of Commerce has announced the 2024 examination for civil servant positions at central authorities and their directly subordinate organizations. The Ministry of Commerce plans to recruit 42 civil servants this year. The application period is from October 15, 2023 8:00, to October 24, 2023 18:00. Tel: 010-65198336 (Annex: Ministry of Commerce 2024 Examination Recruitment of Civil Servants Position List).

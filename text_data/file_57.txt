@@ -1,0 +1,9 @@
+html: nan
+title: 金玉龙参赞在塔什干走访调研中资企业
+resulting_text: 4月6日，驻乌兹别克斯坦馆经商参赞金玉龙率组先后赴中国华腾工业有限公司、中国电力建设集团股份有限公司、中能建国际建设集团中亚有限公司和中国路桥工程有限责任公司等4家企业驻塔什干办事处走访调研，了解企业在乌生产经营状况、发展规划和项目推进中遇到的困难问题，有针对性地提出意见建议，解读中乌经贸政策，为企业办实事解难题。 金玉龙在中国华腾工业有限公司驻塔什干办事处调研 金玉龙在中国电力建设集团股份有限公司驻塔什干办事处调研 金玉龙在中能建国际建设集团中亚有限公司驻塔什干办事处调研 金玉龙参赞在中国路桥工程有限责任公司驻塔什干办事处调研
+input_url: 20230413011855/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202304/20230403403381.shtml
+returned_url: https://web.archive.org/web/20230423024130/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202304/20230403403381.shtml
+date: 2023-04-13 00:00:00
+translated_title: Counselor Jin Yulong Visits and Investigates Chinese Enterprises in Tashkent
+translated_content: On April 6, Jin Yulong, Economic and Commercial Counselor of the Uzbekistan Pavilion, led a group to visit the Tashkent office of four enterprises, including China Huateng Industry Co. The company also made targeted suggestions and recommendations, interpreted the economic and trade policies of China and Ukraine, and did practical work for the enterprises to solve problems. Ltd. in Tashkent Jin Yulong visited China Huateng Industry Co., Ltd. in Tashkent Jin Yulong visited China Electric Power Construction Group Corporation in Tashkent Jin Yulong visited CICC Central Asia Co.
+english_summary: On April 6, Jin Yulong, Economic and Commercial Counselor of the Uzbekistan Pavilion, visited and investigated four Chinese enterprises in Tashkent, including China Huateng Industry Co. Ltd., China Electric Power Construction Group Corporation, and CICC Central Asia Co. Ltd. The group aimed to solve problems faced by the enterprises, interpret economic and trade policies, and promote cooperation between China and Uzbekistan. In addition, China Huateng Industry Co. Ltd. presented targeted suggestions and recommendations for the companies during the visit.

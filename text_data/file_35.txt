@@ -1,0 +1,9 @@
+html: nan
+title: 杭州特办调研杭州特色街区
+resulting_text: 2月21日，宋惠勤副特派员与杭州市商务局王振霄副局长一行，对全国首批示范步行街——杭州湖滨步行街及河坊街等浙江特色街区进行实地调研。
+input_url: 20230224015830/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202302/20230203392544.shtml
+returned_url: https://web.archive.org/web/20230223023520/http://www.mofcom.gov.cn/article/zwgk/gkbnjg/202302/20230203392544.shtml
+date: 2023-02-24 00:00:00
+translated_title: Hangzhou special office research Hangzhou characteristic neighborhoods
+translated_content: On February 21, Deputy Commissioner Song Huiqin, together with Mr. Wang Zhenxiao, Deputy Director of Hangzhou Municipal Bureau of Commerce, conducted on-site research on the first batch of national demonstration pedestrian streets--Hangzhou Hubin Pedestrian Street and Hefang Street, and other characteristic neighborhoods in Zhejiang.
+english_summary: On February 21, Deputy Commissioner Song Huiqin and Mr. Wang Zhenxiao, Deputy Director of Hangzhou Municipal Bureau of Commerce, conducted research on Hangzhou's characteristic neighborhoods, including the first batch of national demonstration pedestrian streets - Hangzhou Hubin Pedestrian Street and Hefang Street. The research was conducted to better understand the characteristics of these areas, with the goal of promoting their development.
